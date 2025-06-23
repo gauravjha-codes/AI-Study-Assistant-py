@@ -7,7 +7,7 @@ from PIL import Image
 import json
 import requests
 
-GEN_API_KEY = "AIzaSyAMYyU94Tz6h8QkJNkHodq26_vWNOnGsrY"
+GEN_API_KEY = "YOUR_GEMINI_API"
 genai.configure(api_key=GEN_API_KEY)
 
 ctk.set_appearance_mode("dark")
