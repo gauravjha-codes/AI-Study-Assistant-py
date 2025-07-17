@@ -24,17 +24,23 @@ Display results in a clean, readable format.
 ## Installation
 
 Clone the repository:
+```
 git clone https://github.com/yourusername/ai-study-assistant.git
 cd ai-study-assistant
+```
 
 
 Install dependencies:
-pip install requirements.txt
+```
+pip install -r requirements.txt
+```
 
 
 Obtain a Gemini API key from Google AI Studio and update the GEN_API_KEY variable in the code.
 Run the application:
+```
 python study_assistant.py
+```
 
 
 
